@@ -1,0 +1,33 @@
+﻿h1, h2 {
+    color:whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+}
+p {
+    color:whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.inline-block {
+    text-align:center;
+    width: 150px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:darkgray;
+    display: block;
+    
+}
+.block{    
+    display:block;
+    margin:200px 55px 10px 55px;
+    color: darkgray    
+}
+.body-block {
+    display: block;
+    background-color: mediumpurple;   
+}
+a{
+    color:whitesmoke;
+    font-size:35px;
+    text-align:center;
+}
